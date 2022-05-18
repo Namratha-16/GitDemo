@@ -7,3 +7,5 @@ for i in range (b):
       print("yes")
    else:
       print("no")
+      elif:
+      print(")
