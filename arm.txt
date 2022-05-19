@@ -8,4 +8,4 @@ for i in range (b):
    else:
       print("no")
       elif:
-      
+
